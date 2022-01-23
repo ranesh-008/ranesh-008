@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ranesh-008 (Ranesh Saraswat), MCA Fresher
-- 👀 I’m interested in software development .
+- 👀 I’m interested in java .
 - 🌱 I’m currently learning advance java and spring framework
 - 💞️ I’m looking for job in java  as a fresher trainee or intern role
-- 📫 reach me https://www.linkedin.com/in/raneshsaraswat/
+- 📫 reach me https://www.linkedin.com/in/raneshsaraswat/ , raneshsaraswat@gmail.com
 
 <!---
 ranesh-008/ranesh-008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
